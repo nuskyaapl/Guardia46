@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "272988395818",
+    "project_id": "sdgp-loginpage",
+    "storage_bucket": "sdgp-loginpage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272988395818:android:f0966c262098c6c10f2653",
+        "android_client_info": {
+          "package_name": "com.example.sdgpproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCblcw0jiRrnzsyvyF9azHkq8axpkUB8m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272988395818:android:7a314a925184a2940f2653",
+        "android_client_info": {
+          "package_name": "com.se46.guardia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCblcw0jiRrnzsyvyF9azHkq8axpkUB8m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
